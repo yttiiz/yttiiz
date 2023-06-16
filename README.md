@@ -1,2 +1,3 @@
-Hi, I’m Dominique Talis, designer, motion designer & web developer.
-I work daily with JS, TS & PHP. I'd readed The Rust Book, which is an amazing introduction to the Rust basics & ecosystem. So I'm ready now to do cool projects in Rust, like Dapps, NFT, wasm.
+Hi, I’m Dominique Talis, web developer.
+I work daily with JS, TS & PHP.
+I'd learned Rust recently. Amazing experience with this langage. Just two words: try it !
