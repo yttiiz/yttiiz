@@ -5,7 +5,7 @@ It's my first language. I started learning it in 2020. Still using it daily at w
 ### Typescript
 When i gained more experience in developpement, I understood that a static typing language is better to maintain big projects. Since that day, TS become a friend of mine :).
 
-###PHP
+### PHP
 I couldn't ignore it.
 
 ### Rust
