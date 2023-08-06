@@ -1,4 +1,4 @@
 # My Stack
-• Javascript
-• Typescript
-• Rust
+#### • Javascript
+#### • Typescript
+#### • Rust
