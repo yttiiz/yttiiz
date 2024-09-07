@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="https://dominiquetalis.com/images/dt_logo_lightblue.svg" width="50" height="auto" alt="dt logo" />
-</div>
+<a href="https://app.daily.dev/yttiiz"><img src="https://api.daily.dev/devcards/v2/MTxw9ARBwiUjUvtQGT8J5.png?r=ul0" width="356" alt="yttiiz's Dev Card"/></a>
 
 # About me
 **Craftsman developer**, I live my different activities with passion.
