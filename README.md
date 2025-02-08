@@ -1,7 +1,7 @@
 # About me
 **Craftsman developer**, I create robust and ergonomic applications. My area of ​​expertise is mainly **web development**. My side hustle revolves around mobile development and desktop software development. 
 
-[//]: <> (<a href="https://app.daily.dev/yttiiz"><img src="./devcard.png" width="356" alt="yttiiz's Dev Card"/></a>)
+<a href="https://app.daily.dev/yttiiz"><img src="./devcard.png" width="356" alt="yttiiz's Dev Card"/></a>
 
 What I suggest:
 
