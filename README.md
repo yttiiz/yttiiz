@@ -5,10 +5,10 @@
 
 What I suggest:
 
-- Creation of web applications (with **TypeScript** & **Next.js**)
-- Creation of landing page or showcase site (with **HTML**, **CSS** & **Vanilla Javascript**)
-- Creation of desktop application (with **Rust** & **Tauri**)
-- Creation of mobile applications (with **Kotlin** & **Jetpack Compose**)
+- Creation of web applications
+- Creation of landing page or showcase site
+- Creation of desktop application
+- Creation of mobile applications
 
 # Stack
 ![JavaScript](https://img.shields.io/badge/Javascript-f0da1d?style=for-the-badge&logo=javascript&logoColor=black)
