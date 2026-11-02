@@ -1,5 +1,5 @@
 # About me
-**Software engineer**, I build web & mobile applications ans I create AI Agents. 
+I build web & mobile applications ans I create AI Agents. 
 
 <a href="https://app.daily.dev/yttiiz"><img src="./devcard.png" width="356" alt="yttiiz's Dev Card"/></a>
 
