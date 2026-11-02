@@ -1,14 +1,13 @@
 # About me
-**Software engineer**, I create robust and ergonomic applications. My area of ​​expertise is mainly **web development**. My side hustle revolves around mobile development and desktop software development. 
+**Software engineer**, I build web & mobile applications ans I create AI Agents. 
 
 <a href="https://app.daily.dev/yttiiz"><img src="./devcard.png" width="356" alt="yttiiz's Dev Card"/></a>
 
 What I suggest:
 
 - Creation of web applications
-- Creation of landing page or showcase site
-- Creation of desktop application
 - Creation of mobile applications
+- Creation of AI agents
 
 # Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
